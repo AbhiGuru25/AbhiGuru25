@@ -1,90 +1,136 @@
+<div align="center">
+
+<!-- LIVE ANIMATED TERMINAL HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1200&color=00F2FE&center=true&vCenter=true&width=850&height=70&duration=3000&lines=ABHI+VIRANI;AI+%26+FULL-STACK+ENGINEER;AUTONOMOUS+AGENT+ARCHITECT;NEXT.JS+15+%2B+PYTHON+FASTAPI" alt="Abhi Virani - Live Terminal" />
+
+<!-- RECRUITER STATUS BADGES -->
 <p align="center">
-  <img src="assets/hero.svg" alt="Abhi Virani - Full-Stack & AI Engineer" width="100%">
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20HIRE%20%2F%20FULL--TIME-00f2fe?style=for-the-badge&logo=codeforces&logoColor=000&labelColor=0d1117" alt="Status"/>
+  <img src="https://img.shields.io/badge/SPECIALTY-AGENTIC%20AI%20%26%20VOICE-a855f7?style=for-the-badge&logo=openai&logoColor=fff&labelColor=0d1117" alt="Specialty"/>
+  <img src="https://img.shields.io/badge/LOCATION-INDIA%20%2F%20REMOTE-38bdf8?style=for-the-badge&logo=googlemaps&logoColor=fff&labelColor=0d1117" alt="Location"/>
 </p>
 
+<!-- ONE-CLICK CONTACT LINKS -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1400&color=00F2FE&center=true&vCenter=true&width=650&height=50&duration=3500&lines=Full-Stack+Architect+%26+Software+Engineer;Agentic+AI+%26+LLM+Pipelines;Production+Workflow+Automation;Next.js+%2B+FastAPI+%2B+TypeScript" alt="Abhi Virani - rotating titles">
+  <a href="mailto:abhivirani2556@gmail.com"><img src="https://img.shields.io/badge/Direct%20Email-abhivirani2556%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/AbhiGuru25"><img src="https://img.shields.io/badge/GitHub-AbhiGuru25-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<p align="center">
-  <b>I engineer autonomous AI systems and full-stack software that measurably replace manual operations</b> — turning chaotic workflows into reliable, automated high-throughput pipelines.
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhiGuru25&show_icons=true&theme=radical&include_border=true&rank=1,2,3,4,5,6,7,8,9,10&count_private=true" alt="GitHub stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbhiGuru25&theme=radical" alt="Contribution streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhiGuru25&layout=compact&theme=radical&include_border=true&langs_count=8" alt="Top languages">
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Engineering
+### ⚡ Executive Overview for Technical Recruiters & HR
+
+> *"I engineer autonomous AI agents and modern full-stack web platforms that eliminate operational friction — building sub-second voice pipelines, asynchronous workflow orchestrators, and production web applications with numbers attached."*
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Autonomous Multi-Agent Orchestrator
-
-Production-grade agentic pipeline coordinating autonomous sub-agents with dynamic tool-calling, state persistence, and self-correcting error handling.
-
-- ⚡ **Sub-2s response latency** with streaming token output
-- 📉 **~65% reduction** in manual extraction & validation tasks
-- 🛡️ Zero-loss human-in-the-loop fallback mechanism
-
-`LangGraph` `FastAPI` `Python` `PostgreSQL`
-
-<a href="https://github.com/AbhiGuru25"><b>View Repository →</b></a>
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Enterprise Workflow & CRM Engine
-
-Integrated webhook pipeline bridging lead ingestion, LLM schema parsing, and automated pipeline enrichment.
-
-- 🎯 **10,000+ data records processed** with automated validation
-- ⏱️ **Near real-time lead qualification** under 1.5 seconds
-- 📈 **Eliminated 4+ hours/day** of manual data entry
-
-`Next.js` `TypeScript` `n8n` `Webhooks`
-
-<a href="https://github.com/AbhiGuru25"><b>View Repository →</b></a>
-
-</td>
-</tr>
+  <tr>
+    <td width="33%" align="center">
+      <b>🎯 Core Engineering</b><br/>
+      <sub>Autonomous Multi-Agent Systems &amp; Real-Time Voice Pipelines</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>⚡ Architecture Focus</b><br/>
+      <sub>Sub-1.2s Audio Ingestion, Webhook Queues &amp; Next.js 15 SSR</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>🚀 Target Roles</b><br/>
+      <sub>Full-Stack Software Engineer / AI Engineer (Remote or On-site)</sub>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 🧰 Toolbox
+## 🏗️ System Architecture: Real-Time Voice & Agent Pipeline
 
-<p align="center">
-  <img src="assets/skills-marquee.svg" alt="Skills Marquee" width="100%">
-</p>
+Here is how my conversational AI telephony and agent systems process live calls and asynchronous tasks:
 
-| Domain | Stack |
-|---|---|
-| **AI & Agentic Systems** | LangChain • LangGraph • Multi-Agent Loops • RAG • Prompt Engineering • OpenAI / Anthropic APIs |
-| **Full-Stack Development** | Next.js (App Router) • React • TypeScript • Tailwind CSS • HTML5/CSS3 |
-| **Backend & Automation** | Python • FastAPI • Node.js • n8n Workflows • Webhooks & REST APIs • ERP / CRM Integrations |
-| **Databases & DevOps** | PostgreSQL • Supabase • Docker • Git & GitHub Actions • Vercel • AWS |
 
 ---
 
-## 📬 Let's Talk
+## 🚀 Featured Engineering & Measurable Impact
 
-<p align="center">
-  <a href="mailto:abhivirani2556@gmail.com"><img src="https://img.shields.io/badge/Email-abhivirani2556%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/AbhiGuru25"><img src="https://img.shields.io/badge/GitHub-AbhiGuru25-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎙️ Multilingual Real-Time AI Voice Agent</h3>
+      <p>Low-latency conversational receptionist handling incoming enterprise calls in <b>English, Hindi, and Gujarati</b> without cloud dependency lag.</p>
+      <ul>
+        <li>⚡ <b>Sub-1.2s round-trip latency</b> via WebSocket audio streaming</li>
+        <li>🗣️ Multi-dialect code-switching with zero-loss fallback logic</li>
+        <li>📅 Automated real-time calendar booking and SMS/CRM dispatch</li>
+      </ul>
+      <p><code>Python</code> <code>FastAPI</code> <code>Whisper STT</code> <code>WebSockets</code> <code>Telephony</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ High-Throughput Autonomous Workflow Engine</h3>
+      <p>Asynchronous event-driven pipeline orchestrating inbound lead ingestion, LLM schema parsing, and database synchronization.</p>
+      <ul>
+        <li>📊 <b>10,000+ data payloads processed</b> with schema validation</li>
+        <li>🛡️ Idempotent webhook delivery with automatic retry queues</li>
+        <li>⏱️ <b>Eliminated ~65% of manual administrative review time</b></li>
+      </ul>
+      <p><code>TypeScript</code> <code>Next.js 15</code> <code>Node.js</code> <code>PostgreSQL</code> <code>REST APIs</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 High-Performance Next.js 15 Web Platform</h3>
+      <p>Production web architecture utilizing <b>React Server Components</b>, edge API routes, and modern reactive layouts.</p>
+      <ul>
+        <li>🚀 <b>99+ Google Lighthouse scores</b> across mobile and desktop</li>
+        <li>🔒 Secure role-based auth and edge middleware routing</li>
+        <li>🎨 Responsive interfaces engineered with Tailwind CSS</li>
+      </ul>
+      <p><code>Next.js 15</code> <code>React 19</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Vercel</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 Outbound Data Intelligence & Qualification Pipeline</h3>
+      <p>Multi-threaded scraping and data verification system built to discover, clean, and enrich high-intent business leads.</p>
+      <ul>
+        <li>📈 High-precision automated syntax and MX record validation</li>
+        <li>🧹 Deduplication algorithms ensuring pristine data hygiene</li>
+        <li>📁 Bulk export routines with custom CRM schema mapping</li>
+      </ul>
+      <p><code>Node.js</code> <code>Cheerio</code> <code>Async Workers</code> <code>PostgreSQL</code></p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <sub>Open to Full-Stack &amp; AI Engineering roles, internships, and contract opportunities — India or Remote.</sub>
-</p>
+---
+
+## 🛠️ Technical Arsenal
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **🤖 AI & Agentic Systems** | LangChain, LangGraph, Whisper ASR, RAG, Structured JSON Extraction, OpenAI / Claude APIs, Prompt Engineering |
+| **💻 Full-Stack Development** | Next.js 15 (App Router), React 19, TypeScript, JavaScript, Tailwind CSS, HTML5 / CSS3 |
+| **⚙️ Backend & Automation** | Python, FastAPI, Node.js, Webhooks, WebSocket Streaming, n8n Automation, REST APIs |
+| **🗄️ Database, Cloud & DevOps** | PostgreSQL, Supabase, Redis, Docker, Git & GitHub Actions, Vercel, Linux / Bash |
+
+---
+
+## 📊 Live GitHub Activity & Streak
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AbhiGuru25&show_icons=true&theme=radical&include_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AbhiGuru25&theme=radical&border=00F2FE" alt="Streak Stats" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Open to Conversations & Opportunities
+Whether you are hiring for **Full-Stack / AI Software Engineering roles**, high-impact internships, or looking to build scalable automation systems:
+
+**[Drop Me an Email](mailto:abhivirani2556@gmail.com)** &nbsp;•&nbsp; 
+**[Connect on LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)** &nbsp;•&nbsp; 
+**[Explore My Repositories](https://github.com/AbhiGuru25?tab=repositories)**
+
+</div>
