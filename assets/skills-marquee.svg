@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 96" width="100%" role="img" aria-label="Skills Marquee">
+  <style>
+    .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:13px;font-weight:600}
+    .dot{fill:#30363d}
+    @keyframes l{from{transform:translateX(0)}to{transform:translateX(-900px)}}
+    @keyframes r{from{transform:translateX(-900px)}to{transform:translateX(0)}}
+    @keyframes dim{0%,100%{opacity:1}50%{opacity:.2}}
+    .a{animation:l 36s linear infinite}
+    .b{animation:r 44s linear infinite}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <defs>
+    <linearGradient id="fadeL" x1="0" x2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></linearGradient>
+    <linearGradient id="fadeR" x1="1" x2="0"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></linearGradient>
+    <g id="rowA" class="m" fill="#c9d1d9">
+      <text x="30" y="34">Next.js</text><text class="dot" x="95" y="34">&#9679;</text>
+      <text x="115" y="34">TypeScript</text><text class="dot" x="210" y="34">&#9679;</text>
+      <text x="230" y="34">Python</text><text class="dot" x="290" y="34">&#9679;</text>
+      <text x="310" y="34">LangGraph / LangChain</text><text class="dot" x="490" y="34">&#9679;</text>
+      <text x="510" y="34">FastAPI</text><text class="dot" x="580" y="34">&#9679;</text>
+      <text x="600" y="34">Tailwind CSS</text><text class="dot" x="710" y="34">&#9679;</text>
+      <text x="730" y="34">Docker</text><text class="dot" x="795" y="34">&#9679;</text>
+      <text x="815" y="34">PostgreSQL</text>
+    </g>
+    <g id="rowB" class="m" fill="#8b949e">
+      <text x="30" y="72">Agentic AI</text><text class="dot" x="120" y="72">&#9679;</text>
+      <text x="140" y="72">n8n Automation</text><text class="dot" x="265" y="72">&#9679;</text>
+      <text x="285" y="72">REST APIs / Webhooks</text><text class="dot" x="460" y="72">&#9679;</text>
+      <text x="480" y="72">Supabase</text><text class="dot" x="560" y="72">&#9679;</text>
+      <text x="580" y="72">React</text><text class="dot" x="635" y="72">&#9679;</text>
+      <text x="655" y="72">Git / GitHub CI</text><text class="dot" x="785" y="72">&#9679;</text>
+      <text x="805" y="72">AWS / Vercel</text>
+    </g>
+  </defs>
+  <rect width="900" height="96" rx="10" fill="#0d1117" stroke="#21262d"/>
+  <g class="a"><use href="#rowA"/><use href="#rowA" x="900"/></g>
+  <g class="b"><use href="#rowB"/><use href="#rowB" x="900"/></g>
+  <rect x="0" y="1" width="80" height="94" fill="url(#fadeL)" style="animation:dim 4s ease-in-out infinite"/>
+  <rect x="820" y="1" width="80" height="94" fill="url(#fadeR)" style="animation:dim 4s ease-in-out infinite"/>
+</svg>
